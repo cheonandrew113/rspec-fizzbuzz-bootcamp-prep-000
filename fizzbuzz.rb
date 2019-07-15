@@ -2,7 +2,8 @@
 # See README.md for instructions on how to do this
 fizz_3 = fizzbuzz(3)
 
-def fizzbuzz
-  
+def fizzbuzz(int)
+  if int % 3 == 0
   return "Fizz"
+end
 end
